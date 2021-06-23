@@ -1,0 +1,16 @@
+:root{
+    --color-amarillo :  #EAC926;
+    --color-azul : #03264C;
+    --color-Celeste: #1259c3;
+    --color-Grisoscuro: #666;
+    --color-Grisclaro: #ebebeb;
+    --color-Verde: #39b54a;
+}
+*{
+    font-family: 'Roboto', sans-serif;
+
+}
+a{
+    text-decoration: none;
+    color:black
+}
